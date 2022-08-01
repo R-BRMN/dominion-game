@@ -1,4 +1,4 @@
-from player import Player
+from src.core.player import Player
 
 class Game:
     def __init__(self, players: list[Player]):
